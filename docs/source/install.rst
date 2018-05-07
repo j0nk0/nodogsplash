@@ -21,7 +21,7 @@ OpenWrt (LEDE)
   
     ``opkg install nodogsplash2`` (for version 2x).
     
-    Nodogsplash is enabled by default and will start automatically on reboot or can be started and stopped manually.
+* Nodogsplash is enabled by default and will start automatically on reboot or can be started and stopped manually.
   
 
 * If the interface that you want Nodogsplash to manage is not br-lan,
