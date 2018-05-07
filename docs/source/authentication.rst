@@ -1,10 +1,10 @@
 Authentication
 ##############
 
-Site-wide username and password
+Nodogsplash v1 -Site-wide username and password
 *******************************
 
-Nodogsplash can be configured to require a username and/or password to be
+Nodogsplash v1 and earlier can be configured to require a username and/or password to be
 entered on the splash page as part of the authentication process. Since the
 username and password are site-wide (not per user), and they are sent in the
 clear using HTTP GET, this is not a secure mechanism.
@@ -26,7 +26,7 @@ respectively, along with others as required, to the server. For example:
    <input type='submit' value='Enter'>
    </form>
 
-Forwarding Authentication Service (FAS)
+Nodogsplash ALL versions -Forwarding Authentication Service (FAS)
 ***************************************
 
 Nodogsplash (NDS) can support external (to NDS) authentication.
