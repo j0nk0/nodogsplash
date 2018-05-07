@@ -56,7 +56,7 @@ Your FAS can reside on your Nodogsplash router, a web server on your LAN, or a w
 
 2:
 /etc/nodogsplash/htdocs/splash.html should also be edited to reflect the URL of your FAS service as indicated in the comments in the example file.
-Take note of the https warning in 1: above. A typical URL could be http://my-fas.net/nodog/fas.php?auth.... etc.
+Take note of the USING HTTPS warning above. A typical URL could be http://my-fas.net/nodog/fas.php?auth.... etc.
 
 Running FAS on your Nodogsplash router:
 The example FAS service will run fairly well on uhttpd (the web server that serves Luci) on an LEDE/OpenWrt supported device with 8MB flash and 32MB ram but shortage of ram may well be an issue if more than two or three clients log in at the same time. For this reason a device with a minimum of 16MB flash and 64MB ram is recommended.
