@@ -1,3 +1,7 @@
+## Releases
+
+Releases/binaries for armel and amd64 are in "Releases" directory
+
 ## 0. The Nodogsplash project
 
 Nodogsplash offers a simple way to provide restricted access to an internet
